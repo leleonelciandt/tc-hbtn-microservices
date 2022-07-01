@@ -1,0 +1,21 @@
+O que é microsserviços ?
+
+Microsserviços são uma abordagem de arquitetura para a criação de aplicações. Como um framework de arquitetura, microsserviços são distribuídos e levemente acoplados para que as mudanças de uma equipe não corrompam toda a aplicação. A vantagem de usar microsserviços é que as equipes de desenvolvimento conseguem criar rapidamente novos componentes de aplicação para atender às necessidades de negócios em constante mudança.
+
+Visão geral da arquitetura Monolítica e de Microsserviços
+
+Na arquitetura Monolítica: Arquitetura Monolítica é um sistema único, não dividido, que roda em um único processo, uma aplicação de software em que diferentes componentes estão ligados a um único programa dentro de uma única plataforma.
+
+Na arquitetura de Microsserviços: Microsserviços são distribuídos e levemente acoplados para que as mudanças de uma equipe não corrompam toda a aplicação.
+
+
+Os benefícios da arquitetura de microsserviços - Cite 3 exemplos
+
+1 - Lançamento no mercado com mais rapidez.
+2 - Altamente escalável.
+3 - Fácil de implantar.
+
+Quais são os tipos de comunicação entre os microsserviços ?
+
+
+Comunicação por HTTP; Comunicação por Mensagens e Comunicação Orientada a Eventos.

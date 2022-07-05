@@ -1,0 +1,10 @@
+ O que é Arquitetura Serverless
+ "Serverless computing” (computação sem servidor) soar absurdo à primeira vista, seu significado real é baseado na capacidade de implementar software sem ter qualquer envolvimento com a infraestrutura. As plataformas sem servidor automatizam todo o processo de criação, implementação e início de serviços sob demanda. Os usuários só precisariam registrar as funções empresariais requeridas e suas necessidades de recursos.
+O que é Function as a service (FaaS) ?
+Function as a Service (FaaS) é um serviço de computação em nuvem que busca abstrair a questão de servidor e máquinas onde rodam os seus programas. Em detalhes, ela deriva da filosofia Servless, que delega ao provedor de computação em nuvem (Cloud Provider) provisionar uma plataforma que permita ao cliente: desenvolver, rodar e gerenciar aplicações. Nestes moldes, reduz-se a complexidade de uma pessoa ter que montar e manter a infraestrutura, atual padrão de todo mercado corporativo. Montando uma aplicação com este padrão, implementamos a teoria Servless e criamos uma arquitetura nativa de microsserviços.
+Quais são os benefícios de usar arquitetura Serverless ?
+Não é necessário se preocupar/gastar com a infraestrutura, iterações rápidas, paga pelo o que consome, e também é possível aumentar ou diminuir a alocação de contêineres conforme necessário.
+O que é Cloud Computing (Computação em Nuvem) ? E quais são seu benefícios ?
+Cloud computing é a entrega de serviços de computação - incluindo servidores, armazenamento, banco de dados, networking, software, analytics, e inteligência -  através da internet ("Cloud"). Isso permite rápida inovação, recursos flexíveis, economia e escalabilidade.
+Quais são as principais diferenças entre Arquitetura Monolítica, Microsserviços e Serverless ?
+Arquitetura monolítica trata a aplicação com algo único (funcionalidades, banco, infraestrutura) e com forte acoplamento. Já no microsserviços a aplicação é separa por servições e estes com baixo acoplamento entre eles. Serverless é o conceito "sem servidor", as aplicações são deployadas através da Cloud e contêineres.
